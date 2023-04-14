@@ -24,6 +24,6 @@ The code reproduces the Equalizer paper simulation figures, with the provided mo
 
 ## Reference
 
-_Future paper citation_
+[A synthetic circuit for buffering gene dosage variation between individual mammalian cells](https://doi.org/10.1038/s41467-021-23889-0)
 
 St-Pierre Lab (stpierrelab.com)
